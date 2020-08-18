@@ -127,3 +127,17 @@ button {
 .about-section {
   background-color: #dae2ec;
   padding: 3rem 27rem 3rem 27rem; }
+
+.contact-section {
+  background-color: #FADB61;
+  padding: 3rem 27rem 3rem 27rem; }
+
+.contact__text {
+  font-size: 3rem;
+  color: #8E2C0B;
+  margin: 0; }
+
+.contact__number {
+  font-size: 4rem;
+  font-weight: 700;
+  padding: 0 2rem 0 2rem; }
